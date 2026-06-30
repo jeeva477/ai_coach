@@ -1,0 +1,8 @@
+{
+  "dependencies": {
+    "autoprefixer": "^10.5.2",
+    "axios": "^1.18.1",
+    "postcss": "^8.5.16",
+    "tailwindcss": "^4.3.2"
+  }
+}
